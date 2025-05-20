@@ -2,30 +2,113 @@
     "produtos": [
       {
         "id": "1",
-        "produto": "K-Swiss V8 - Masculino",
+        "titulo": "K-Swiss V8 - Masculino",
         "categoria": "Tênis",
         "preco": 200,
+        "priceDiscount": 172,
         "img": "/tenis.svg"
       },
       {
         "id": "2",
-        "produto": "K-Swiss V8 - Masculino",
+        "titulo": "K-Swiss V8 - Masculino",
         "categoria": "Tênis",
         "preco": 200,
         "img": "/tenis.svg"
       },
       {
         "id": "3",
-        "produto": "K-Swiss V8 - Masculino",
+        "titulo": "K-Swiss V8 - Masculino",
+        "categoria": "Tênis",
+        "preco": 200,
+        "priceDiscount": 186,
+        "img": "/tenis.svg"
+      },
+      {
+        "id": "4",
+        "titulo": "K-Swiss V8 - Masculino",
         "categoria": "Tênis",
         "preco": 200,
         "img": "/tenis.svg"
       },
       {
-        "id": "4",
-        "produto": "K-Swiss V8 - Masculino",
+        "id": "5",
+        "titulo": "K-Swiss V8 - Masculino",
         "categoria": "Tênis",
         "preco": 200,
+        "img": "/tenis.svg"
+      },
+      {
+        "id": "6",
+        "titulo": "K-Swiss V8 - Masculino",
+        "categoria": "Tênis",
+        "preco": 200,
+        "priceDiscount": 152,
+        "img": "/tenis.svg"
+      },
+      {
+        "id": "7",
+        "titulo": "K-Swiss V8 - Masculino",
+        "categoria": "Tênis",
+        "preco": 200,
+        "img": "/tenis.svg"
+      },
+      {
+        "id": "8",
+        "titulo": "K-Swiss V8 - Masculino",
+        "categoria": "Tênis",
+        "preco": 200,
+        "img": "/tenis.svg"
+      },
+      {
+        "id": "9",
+        "titulo": "K-Swiss V8 - Masculino",
+        "categoria": "Tênis",
+        "preco": 200,
+        "priceDiscount": 148,
+        "img": "/tenis.svg"
+      },
+      {
+        "id": "10",
+        "titulo": "K-Swiss V8 - Masculino",
+        "categoria": "Tênis",
+        "preco": 200,
+        "priceDiscount": 178,
+        "img": "/tenis.svg"
+      },
+      {
+        "id": "11",
+        "titulo": "K-Swiss V8 - Masculino",
+        "categoria": "Tênis",
+        "preco": 200,
+        "img": "/tenis.svg"
+      },
+      {
+        "id": "12",
+        "titulo": "K-Swiss V8 - Masculino",
+        "categoria": "Tênis",
+        "preco": 200,
+        "img": "/tenis.svg"
+      },
+      {
+        "id": "13",
+        "titulo": "K-Swiss V8 - Masculino",
+        "categoria": "Tênis",
+        "preco": 200,
+        "img": "/tenis.svg"
+      },
+      {
+        "id": "14",
+        "titulo": "K-Swiss V8 - Masculino",
+        "categoria": "Tênis",
+        "preco": 200,
+        "img": "/tenis.svg"
+      },
+      {
+        "id": "15",
+        "titulo": "K-Swiss V8 - Masculino",
+        "categoria": "Tênis",
+        "preco": 200,
+        "priceDiscount": 138,
         "img": "/tenis.svg"
       }
     ]
