@@ -10,7 +10,8 @@
     "marca": "K-SWISS",
     "reference": 24965421,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "2",
@@ -22,7 +23,8 @@
     "marca": "K-SWISS",
     "reference": 24965422,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "3",
@@ -33,7 +35,8 @@
     "marca": "K-SWISS",
     "reference": 24965423,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "4",
@@ -44,7 +47,8 @@
     "marca": "K-SWISS",
     "reference": 24965424,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "5",
@@ -56,7 +60,8 @@
     "marca": "K-SWISS",
     "reference": 24965425,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "6",
@@ -68,7 +73,8 @@
     "marca": "K-SWISS",
     "reference": 24965426,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "7",
@@ -79,7 +85,8 @@
     "marca": "K-SWISS",
     "reference": 24965427,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "8",
@@ -90,7 +97,8 @@
     "marca": "K-SWISS",
     "reference": 24965428,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "9",
@@ -101,7 +109,8 @@
     "marca": "K-SWISS",
     "reference": 24965429,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "10",
@@ -113,7 +122,8 @@
     "marca": "K-SWISS",
     "reference": 24965430,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "11",
@@ -124,7 +134,8 @@
     "marca": "K-SWISS",
     "reference": 24965431,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "12",
@@ -133,7 +144,8 @@
     "preco": 200,
     "img": "/tenis.svg",
     "marca": "K-SWISS",
-    "reference": 24965432
+    "reference": 24965432,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "13",
@@ -144,7 +156,8 @@
     "marca": "K-SWISS",
     "reference": 24965433,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "14",
@@ -156,7 +169,8 @@
     "marca": "K-SWISS",
     "reference": 24965434,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "15",
@@ -168,7 +182,8 @@
     "marca": "K-SWISS",
     "reference": 24965435,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "16",
@@ -179,7 +194,8 @@
     "marca": "K-SWISS",
     "reference": 24965436,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "17",
@@ -191,7 +207,8 @@
     "marca": "K-SWISS",
     "reference": 24965437,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "18",
@@ -202,7 +219,8 @@
     "marca": "K-SWISS",
     "reference": 24965438,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "19",
@@ -214,7 +232,8 @@
     "marca": "K-SWISS",
     "reference": 24965439,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "20",
@@ -225,7 +244,8 @@
     "marca": "K-SWISS",
     "reference": 24965440,
     "stars": 4.5,
-    "rating": 52
+    "rating": 52,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   }
 ]
 
