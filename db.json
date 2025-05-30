@@ -2,7 +2,7 @@
     "produtos": [
   {
     "id": "1",
-    "titulo": "Tênis Nike Revolution \n 6 Next Nature Masculino",
+    "titulo": "Tênis Nike Revolution </wbr> 6 Next Nature Masculino",
     "categoria": "Tênis",
     "preco": 250,
     "priceDiscount": 192,
@@ -15,15 +15,15 @@
   },
   {
     "id": "2",
-    "titulo": "K-Swiss V8 - Masculino",
+    "titulo": "Chuck Taylor All Star",
     "categoria": "Tênis",
-    "preco": 200,
-    "priceDiscount": 180,
-    "img": "/tenis.svg",
-    "marca": "K-SWISS",
+    "preco": 240,
+    "priceDiscount": 196,
+    "img": "/sapato-all-star.png",
+    "marca": "Converse",
     "reference": 24965422,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 4.2,
+    "rating": 84,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -42,25 +42,25 @@
     "id": "4",
     "titulo": "K-Swiss V8 - Masculino",
     "categoria": "Tênis",
-    "preco": 200,
+    "preco": 210,
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965424,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 4.2,
+    "rating": 35,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "5",
     "titulo": "K-Swiss V8 - Masculino",
     "categoria": "Tênis",
-    "preco": 200,
+    "preco": 190,
     "priceDiscount": 165,
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965425,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 2.5,
+    "rating": 27,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -72,20 +72,20 @@
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965426,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 4.8,
+    "rating": 81,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "7",
     "titulo": "K-Swiss V8 - Masculino",
     "categoria": "Tênis",
-    "preco": 200,
+    "preco": 180,
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965427,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 3.9,
+    "rating": 33,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -96,8 +96,8 @@
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965428,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 4.7,
+    "rating": 68,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -108,8 +108,8 @@
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965429,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 1.5,
+    "rating": 18,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -121,7 +121,7 @@
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965430,
-    "stars": 4.5,
+    "stars": 2.5,
     "rating": 52,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
@@ -133,8 +133,8 @@
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965431,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 4.6,
+    "rating": 42,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -142,9 +142,12 @@
     "titulo": "K-Swiss V8 - Masculino",
     "categoria": "Tênis",
     "preco": 200,
+    "priceDiscount": 178,
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965432,
+    "stars": 4.8,
+    "rating": 12,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -155,8 +158,8 @@
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965433,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 3.7,
+    "rating": 16,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -168,8 +171,8 @@
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965434,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 4.8,
+    "rating": 18,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -181,8 +184,8 @@
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965435,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 4.7,
+    "rating": 11,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -193,8 +196,8 @@
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965436,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 1.8,
+    "rating": 21,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -206,20 +209,21 @@
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965437,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 4.1,
+    "rating": 56,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
     "id": "18",
-    "titulo": "K-Swiss V8 - Masculino",
-    "categoria": "Tênis",
-    "preco": 200,
-    "img": "/tenis.svg",
-    "marca": "K-SWISS",
+    "titulo": "Baby Reborn",
+    "categoria": "Família",
+    "preco": 3850,
+    "priceDiscount": 2860,
+    "img": "/baby-reborn.png",
+    "marca": "Reborn Babe",
     "reference": 24965438,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 4.9,
+    "rating": 524,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -231,8 +235,8 @@
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965439,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 3.8,
+    "rating": 8,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   },
   {
@@ -243,8 +247,8 @@
     "img": "/tenis.svg",
     "marca": "K-SWISS",
     "reference": 24965440,
-    "stars": 4.5,
-    "rating": 52,
+    "stars": 4.4,
+    "rating": 6,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
   }
 ]
